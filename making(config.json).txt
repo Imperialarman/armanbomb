@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "created_by": "https://github.com/amansen-dev/",
+  "created_by": "https://github.com/Imperialarman/armanbomb.git",
   "providers": {
     "91": [
       {
