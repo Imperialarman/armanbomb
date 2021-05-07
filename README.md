@@ -11,8 +11,8 @@ Use the package manager pip to install bomb3r.
 
 
 ```bash
-git clone https://github.com/amansen-dev/aman_Bomb3r.git
-cd aman_Bomb3r
+git clone https://github.com/Imperialarman/armanbomb.git
+cd armanbomb
 pip3 install -r requirements.txt
 ```
 # Usage
