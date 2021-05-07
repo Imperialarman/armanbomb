@@ -1,8 +1,8 @@
 # armanbomb
 aman-Bomb3r
-Made with Love in IN By Aman
+Made with Love in IN By Imperial Arman
 
-For Windows 10/8.x/7
+#For Windows 10/8.x/7
 Use windows releases (windows release is not up-to date)
 
 Installation
