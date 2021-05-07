@@ -2,20 +2,20 @@
 aman-Bomb3r
 Made with Love in IN By Imperial Arman
 
-#For Windows 10/8.x/7
+# For Windows 10/8.x/7
 Use windows releases (windows release is not up-to date)
 
-Installation
+# Installation
 Use the package manager pip to install bomb3r.
 
 git clone https://github.com/amansen-dev/aman_Bomb3r.git
 cd aman_Bomb3r
 pip3 install -r requirements.txt
-Usage
+# Usage
 python3 bomber.py <TARGET>
 where TARGET is target mobile number.
 
-Options
+# Options
 usage: bomber.py [-h] [--sms SMS] [--threads THREADS] TARGET
 
 positional arguments:
@@ -32,7 +32,7 @@ optional arguments:
                           option if you are bombing more than 50 sms)
   --verbose, -v         Verbose
   --verify, -V          To verify all providers are working or not
-Changelog
+# Changelog
     -- Mar, 2020
       - added more configs
       - fixed some bugs
@@ -42,5 +42,6 @@ Changelog
       - more api for india
       - proxy feature to avoid ip blocking
       - new verbose and verify option
-License
-This project is licensed under the [GNU General Public License v3.0](https://github.com/amansen-dev/aman-Bomb3r/blob/master/LICENSE
+# License
+This project is licensed under the [GNU General Public License v3.0]
+
